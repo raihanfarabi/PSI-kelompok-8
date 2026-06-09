@@ -1,6 +1,11 @@
 {
   "name": "library-management-system",
   "version": "1.0.0",
+  "description": "Project PSI dengan Agentic AI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
   "dependencies": {
     "express": "^4.18.2",
     "cors": "^2.8.5"
